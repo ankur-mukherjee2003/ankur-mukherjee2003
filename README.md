@@ -58,8 +58,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ankur-mukherjee2003/ankur-mukherjee2003/output/snake.svg" alt="Snake animation" />
 
 ###
